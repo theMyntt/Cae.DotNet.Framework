@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cae.DotNet.Framework.MappedExceptitons\Cae.DotNet.Framework.MappedExceptions.csproj" />
+  </ItemGroup>
+
 </Project>
